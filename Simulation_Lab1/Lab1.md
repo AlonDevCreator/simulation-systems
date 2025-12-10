@@ -128,7 +128,7 @@
 
 
 
-/lr1.png
+![/lr1.png](https://github.com/AlonDevCreator/simulation-systems/blob/main/Simulation_Lab1/lr1.png)
 
 
 
