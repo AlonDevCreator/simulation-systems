@@ -162,7 +162,7 @@
 | 1.00    | 23.7                    |
 
 
-https://github.com/AlonDevCreator/simulation-systems/blob/main/Simulation_Lab1/albedo.png
+![/albedo.png](https://github.com/AlonDevCreator/simulation-systems/blob/main/Simulation_Lab1/albedo.png)
 
 **Методика**:
 - Зафіксувати концентрацію CO₂ на рівні 25 молекул
@@ -210,7 +210,7 @@ https://github.com/AlonDevCreator/simulation-systems/blob/main/Simulation_Lab1/a
 | 20                  | 21.4                    |
 
 
-https://github.com/AlonDevCreator/simulation-systems/blob/main/Simulation_Lab1/clasters.png
+![/clasters.png](https://github.com/AlonDevCreator/simulation-systems/blob/main/Simulation_Lab1/clasters.png)
 
 **Результати**: Хмари знижують температуру за рахунок відбиття сонячного світла. Ефект більш виражений при високій концентрації CO₂, оскільки хмари частково компенсують парниковий ефект.
 
